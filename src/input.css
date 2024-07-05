@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  /*        <div class="w-46 flex flex-col items-center text-center mt-6">
+            <img src="https://www.developeronrent.com/newcss/images/SVG/hire-net-developers.png" alt="" class="rounded-[100%] object-cover mx-8 w-44">
+            <p class="mt-4">360+</p>
+            <p class="text-slate-500 mx-3">FullStack .NetDeveloper Course</p>
+          </div>
+          <div class="w-46 flex flex-col items-center text-center mt-6">
+            <img src="https://blog.educationnest.com/wp-content/uploads/2023/05/Untitled-design-13.png" alt="" class="rounded-[100%] object-cover mx-8 w-44">
+            <p class="mt-4">870+</p>
+            <p class="text-slate-500 mx-3">Cloud Engineer Course</p>
+          </div> 
+        */
